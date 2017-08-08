@@ -148,9 +148,6 @@ R31	AFTER Arg1:E29 Arg2:E30
 T77	Activity 2158 2166	referred
 E31	Activity:T77 
 R32	BEFORE Arg1:E2 Arg2:E10	
-T78	Duration 2097 2104	2 years
-E32	Duration:T78 
-R33	AFTER Arg1:E32 Arg2:E30	
 T79	Therapeutic_procedure 2200 2208	ablation
 E33	Therapeutic_procedure:T79 
 T80	Sign_symptom 2210 2229	clinical arrhythmia
@@ -249,10 +246,8 @@ R60	MODIFIER Arg1:T120 Arg2:T118
 R61	MODIFIER Arg1:T118 Arg2:E53	
 R63	MODIFIER Arg1:T115 Arg2:T112	
 R64	MODIFIER Arg1:T91 Arg2:T88	
-R65	AFTER Arg1:E29 Arg2:E32	
 R66	AFTER Arg1:E48 Arg2:E49	
 *	OVERLAP E48 E50
-*	OVERLAP E29 E31
 R67	MODIFIER Arg1:T12 Arg2:T28	
 T121	Diagnostic_procedure 367 376	second CV
 E54	Diagnostic_procedure:T121 
@@ -280,3 +275,10 @@ E56	Activity:T123
 R78	AFTER Arg1:E56 Arg2:E52	
 R62	MODIFIER Arg1:T112 Arg2:E56	
 R79	BEFORE Arg1:E56 Arg2:E53	
+#2	AnnotatorNotes E42	apple
+T78	Date 2097 2110	2 years after
+E32	Date:T78 
+*	OVERLAP E29 E32 E31
+T124	Duration 2097 2104	2 years
+E57	Duration:T124 
+R33	MODIFIER Arg1:E57 Arg2:E32	

@@ -51,7 +51,7 @@ class Node:
 
     def is_modifier(self):
         return self.type in ['Qualitative_concept', 'Quantitative_concept', \
-        'Anatomical_structure']
+        'Anatomical_structure', 'Date', 'Time', 'Duration', 'Frequency']
 
     def add_attrib(self, attrib):
         self.attribs.append(attrib)
@@ -62,7 +62,7 @@ class Node:
     def __str__(self):
         return 'Node %s:\nlabel: %s\ntype: %s\ntype: %s\nattribute: %s\n' \
         'next: %s\n' % \
-        (self.id, self.label, self.type, self.start_pos, self.attrib, self.next)
+        (self.id, self.label, self.type, self.start_pos, self.attribs, self.next)
 
 
 class Graph:
