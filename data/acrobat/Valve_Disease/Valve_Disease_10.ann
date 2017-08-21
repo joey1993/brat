@@ -1,0 +1,294 @@
+T1	Lab 14 17	man
+T2	Disease_disorder 33 42	class III
+T3	Sign_symptom 33 74	class III shortness of breath on exertion
+T4	Sign_symptom 43 62	shortness of breath
+T5	Sign_symptom 66 74	exertion
+T6	Disease_disorder 89 122	unremarkable clinical examination
+T7	Qualitative_concept 89 101	unremarkable
+T8	Qualitative_concept 102 110	clinical
+T9	Quantitative_concept 123 128	found
+T10	Sign_symptom 129 175	an ejection systolic murmur at the aortic area
+T11	Sign_symptom 132 156	ejection systolic murmur
+T12	Sign_symptom 132 140	ejection
+T13	Sign_symptom 141 156	systolic murmur
+T14	Sign_symptom 150 156	murmur
+T15	Anatomical_structure 164 175	aortic area
+T16	Anatomical_structure 164 170	aortic
+T17	Anatomical_structure 194 202	carotids
+T18	Diagnostic_procedure 204 234	Transthoracic echocardiography
+T19	Diagnostic_procedure 218 234	echocardiography
+T20	Qualitative_concept 235 243	revealed
+T21	Qualitative_concept 244 250	severe
+T22	Disease_disorder 244 307	severe aortic stenosis with preserved left ventricular function
+T23	Disease_disorder 251 266	aortic stenosis
+T24	Anatomical_structure 251 257	aortic
+T25	Disease_disorder 258 266	stenosis
+T26	Diagnostic_procedure 272 281	preserved
+T27	Sign_symptom 282 307	left ventricular function
+T28	Diagnostic_procedure 309 329	Coronary angiography
+T29	Procedure 318 329	angiography
+T30	Qualitative_concept 337 348	significant
+T31	Disease_disorder 337 365	significant 2-vessel disease
+T32	Disease_disorder 349 365	2-vessel disease
+T33	Disease_disorder 358 365	disease
+T34	Procedure 367 391	Aortic valve replacement
+T35	Procedure 367 440	Aortic valve replacement with concomitant coronary artery bypass grafting
+T36	Anatomical_structure 367 379	Aortic valve
+T37	Anatomical_structure 367 373	Aortic
+T38	Procedure 380 391	replacement
+T39	Procedure 409 440	coronary artery bypass grafting
+T40	Procedure 409 431	coronary artery bypass
+T41	Anatomical_structure 409 424	coronary artery
+T42	Anatomical_structure 418 424	artery
+T43	Procedure 425 440	bypass grafting
+T44	Procedure 425 431	bypass
+T45	Procedure 432 440	grafting
+T46	Disease_disorder 445 452	offered
+T47	Procedure 479 538	a median sternotomy with no documented breach of the pleura
+T48	Procedure 481 498	median sternotomy
+T49	Procedure 488 498	sternotomy
+T50	Anatomical_structure 532 538	pleura
+T51	Anatomical_structure 543 567	internal thoracic artery
+T52	Anatomical_structure 552 567	thoracic artery
+T53	Anatomical_structure 552 560	thoracic
+T54	Anatomical_structure 561 567	artery
+T55	Anatomical_structure 595 608	thymic tissue
+T56	Anatomical_structure 602 608	tissue
+T57	Disease_disorder 610 662	The severely stenosed calcific bicuspid aortic valve
+T58	Qualitative_concept 614 622	severely
+T59	Disease_disorder 632 662	calcific bicuspid aortic valve
+T60	Qualitative_concept 632 640	calcific
+T61	Qualitative_concept 641 649	bicuspid
+T62	Anatomical_structure 641 662	bicuspid aortic valve
+T63	Anatomical_structure 650 662	aortic valve
+T64	Anatomical_structure 650 656	aortic
+T65	Quantitative_concept 683 688	23-mm
+T66	Anatomical_structure 712 717	valve
+T67	Activity 725 733	recovery
+T68	Qualitative_concept 738 750	unremarkable
+T69	Procedure 756 772	the chest drains
+T70	Anatomical_structure 760 765	chest
+T71	Procedure 766 772	drains
+T72	Qualitative_concept 778 785	removed
+T73	Disease_disorder 803 808	day 2
+T74	Disease_disorder 813 818	day 4
+T75	Procedure 820 871	the patient displayed features of cardiac tamponade
+T76	Lab 824 850	patient displayed features
+T77	Procedure 854 871	cardiac tamponade
+T78	Anatomical_structure 854 861	cardiac
+T79	Procedure 862 871	tamponade
+T80	Sign_symptom 880 900	muffled heart sounds
+T81	Sign_symptom 888 900	heart sounds
+T82	Anatomical_structure 888 893	heart
+T83	Sign_symptom 905 928	progressive hypotension
+T84	Sign_symptom 917 928	hypotension
+T85	Procedure 930 968	An urgent transthoracic echocardiogram
+T86	Procedure 940 968	transthoracic echocardiogram
+T87	Procedure 954 968	echocardiogram
+T88	Disease_disorder 976 1042	a large 2.2-cm circumferential pericardial effusion with tamponade
+T89	Quantitative_concept 978 983	large
+T90	Quantitative_concept 991 1006	circumferential
+T91	Disease_disorder 1007 1027	pericardial effusion
+T92	Disease_disorder 1007 1042	pericardial effusion with tamponade
+T93	Anatomical_structure 1007 1018	pericardial
+T94	Disease_disorder 1019 1027	effusion
+T95	Procedure 1033 1042	tamponade
+T96	Procedure 1044 1066	An emergency operation
+T97	Procedure 1047 1066	emergency operation
+T98	Procedure 1057 1066	operation
+T99	Disease_disorder 1077 1078	1
+T100	Qualitative_concept 1084 1099	serosanguineous
+T101	Anatomical_structure 1100 1105	fluid
+T102	Anatomical_structure 1115 1132	pericardial space
+T103	Anatomical_structure 1115 1126	pericardial
+T104	Lab 1168 1179	hemodynamic
+T105	Qualitative_concept 1180 1186	status
+T106	Procedure 1188 1207	A pericardial drain
+T107	Anatomical_structure 1190 1201	pericardial
+T108	Procedure 1202 1207	drain
+T109	Procedure 1232 1247	the drain fluid
+T110	Procedure 1236 1241	drain
+T111	Anatomical_structure 1242 1247	fluid
+T112	Disease_disorder 1248 1254	turned
+T113	Sign_symptom 1255 1260	milky
+T114	Qualitative_concept 1272 1285	approximately
+T115	Quantitative_concept 1290 1301	mL in 24 h.
+T116	Quantitative_concept 1315 1320	found
+T117	Lab 1321 1333	chylomicrons
+T118	Disease_disorder 1338 1342	16.0
+T119	Procedure 1356 1369	triglycerides
+T120	Anatomical_structure 1377 1382	fluid
+T121	Disease_disorder 1384 1400	Chylopericardium
+T122	Disease_disorder 1405 1414	diagnosed
+T123	Procedure 1420 1435	a fat-free diet
+T124	Procedure 1422 1435	fat-free diet
+T125	Activity 1440 1449	commenced
+T126	Sign_symptom 1451 1466	This management
+T127	Sign_symptom 1456 1466	management
+T128	Qualitative_concept 1467 1474	removed
+T129	Sign_symptom 1475 1495	the milky appearance
+T130	Sign_symptom 1479 1484	milky
+T131	Qualitative_concept 1485 1495	appearance
+T132	Qualitative_concept 1500 1509	decreased
+T133	Procedure 1510 1522	the drainage
+T134	Procedure 1514 1522	drainage
+T135	Procedure 1535 1547	the drainage
+T136	Procedure 1539 1547	drainage
+T137	Qualitative_concept 1552 1559	reduced
+T138	Disease_disorder 1563 1565	50
+T139	Sign_symptom 1582 1604	a trial of normal diet
+T140	Sign_symptom 1593 1604	normal diet
+T141	Sign_symptom 1593 1599	normal
+T142	Procedure 1645 1660	the chest drain
+T143	Anatomical_structure 1649 1654	chest
+T144	Procedure 1655 1660	drain
+T145	Qualitative_concept 1665 1672	removed
+T146	Procedure 1679 1703	repeat chest radiography
+T147	Procedure 1686 1703	chest radiography
+T148	Procedure 1692 1703	radiography
+T149	Disease_disorder 1730 1765	no evidence of pericardial effusion
+T150	Disease_disorder 1745 1765	pericardial effusion
+T151	Anatomical_structure 1745 1756	pericardial
+T152	Disease_disorder 1757 1765	effusion
+T153	Quantitative_concept 1797 1802	found
+T154	Disease_disorder 1803 1825	no evidence of relapse
+T155	Disease_disorder 1818 1825	relapse
+T156	Sign_symptom 1827 1895	A 45-year-old lady with an extensive history of intravenous drug use
+T157	Qualitative_concept 1854 1863	extensive
+T158	Sign_symptom 1864 1895	history of intravenous drug use
+T159	Sign_symptom 1864 1874	history of
+T160	Sign_symptom 1864 1871	history
+T161	Sign_symptom 1915 1934	our care with fever
+T162	Sign_symptom 1929 1934	fever
+T163	Disease_disorder 1936 1942	sepsis
+T164	Disease_disorder 1944 1961	cardiogenic shock
+T165	Disease_disorder 1956 1961	shock
+T166	Disease_disorder 1967 2002	aortic valve infective endocarditis
+T167	Anatomical_structure 1967 1979	aortic valve
+T168	Anatomical_structure 1967 1973	aortic
+T169	Disease_disorder 1980 2002	infective endocarditis
+T170	Disease_disorder 1990 2002	endocarditis
+T171	Diagnostic_procedure 2004 2020	Echocardiography
+T172	Qualitative_concept 2031 2037	severe
+T173	Disease_disorder 2031 2088	severe aortic regurgitation with aortic valve vegetations
+T174	Disease_disorder 2038 2088	aortic regurgitation with aortic valve vegetations
+T175	Disease_disorder 2038 2076	aortic regurgitation with aortic valve
+T176	Disease_disorder 2038 2058	aortic regurgitation
+T177	Anatomical_structure 2038 2044	aortic
+T178	Disease_disorder 2045 2058	regurgitation
+T179	Disease_disorder 2064 2088	aortic valve vegetations
+T180	Anatomical_structure 2064 2076	aortic valve
+T181	Disease_disorder 2077 2088	vegetations
+T182	Procedure 2090 2127	An emergency aortic valve replacement
+T183	Disease_disorder 2093 2102	emergency
+T184	Procedure 2103 2127	aortic valve replacement
+T185	Anatomical_structure 2103 2115	aortic valve
+T186	Anatomical_structure 2103 2109	aortic
+T187	Procedure 2116 2127	replacement
+T188	Procedure 2142 2161	a median sternotomy
+T189	Procedure 2144 2161	median sternotomy
+T190	Procedure 2151 2161	sternotomy
+T191	Lab 2184 2189	noted
+T192	Qualitative_concept 2211 2217	active
+T193	Anatomical_structure 2218 2231	thymic tissue
+T194	Anatomical_structure 2225 2231	tissue
+T195	Anatomical_structure 2254 2260	pleura
+T196	Anatomical_structure 2282 2288	tissue
+T197	Anatomical_structure 2289 2294	valve
+T198	Activity 2299 2305	placed
+T199	Diagnostic_procedure 2307 2317	Microscopy
+T200	Disease_disorder 2307 2336	Microscopy of the vegetations
+T201	Disease_disorder 2325 2336	vegetations
+T202	Quantitative_concept 2337 2342	found
+T203	Disease_disorder 2343 2362	fungal endocarditis
+T204	Disease_disorder 2350 2362	endocarditis
+T205	Lab 2368 2375	patient
+T206	Disease_disorder 2395 2446	the intensive care unit in a satisfactory condition
+T207	Qualitative_concept 2424 2436	satisfactory
+T208	Disease_disorder 2437 2446	condition
+T209	Activity 2452 2460	recovery
+T210	Qualitative_concept 2486 2491	clear
+T211	Qualitative_concept 2492 2498	serous
+T212	Procedure 2499 2507	drainage
+T213	Procedure 2540 2550	the drains
+T214	Procedure 2544 2550	drains
+T215	Procedure 2570 2588	The draining fluid
+T216	Procedure 2574 2582	draining
+T217	Anatomical_structure 2583 2588	fluid
+T218	Disease_disorder 2589 2595	turned
+T219	Disease_disorder 2596 2607	milky-white
+T220	Disease_disorder 2611 2616	day 5
+T221	Quantitative_concept 2631 2636	found
+T222	Procedure 2637 2650	triglycerides
+T223	Disease_disorder 2674 2690	chylopericardium
+T224	Disease_disorder 2695 2704	diagnosed
+T225	Procedure 2706 2721	A fat-free diet
+T226	Procedure 2708 2721	fat-free diet
+T227	Lab 2741 2750	patient's
+T228	Lab 2751 2757	weight
+T229	Qualitative_concept 2758 2767	decreased
+T230	Quantitative_concept 2782 2784	kg
+T231	Procedure 2799 2825	medium-chain triglycerides
+T232	Procedure 2812 2825	triglycerides
+T233	Lab 2830 2850	fat-soluble vitamins
+T234	Disease_disorder 2855 2860	day 7
+T235	Lab 2862 2878	fat-free protein
+T236	Qualitative_concept 2862 2870	fat-free
+T237	Sign_symptom 2862 2885	fat-free protein shakes
+T238	Procedure 2871 2878	protein
+T239	Sign_symptom 2879 2885	shakes
+T240	Activity 2891 2900	commenced
+T241	Sign_symptom 2906 2921	her weight loss
+T242	Sign_symptom 2910 2921	weight loss
+T243	Quantitative_concept 2972 2974	mL
+T244	Sign_symptom 3010 3067	management with the addition of octreotide 100 mg 3-times
+T245	Sign_symptom 3010 3020	management
+T246	Medication 3042 3052	octreotide
+T247	Quantitative_concept 3053 3056	100
+T248	Quantitative_concept 3057 3059	mg
+T249	Medication 3084 3094	octreotide
+T250	Qualitative_concept 3099 3113	well-tolerated
+T251	Disease_disorder 3119 3134	no side-effects
+T252	Disease_disorder 3122 3134	side-effects
+T253	Procedure 3136 3148	the drainage
+T254	Procedure 3140 3148	drainage
+T255	Lab 3168 3170	mL
+T256	Lab 3195 3202	patient
+T257	Qualitative_concept 3218 3222	well
+T258	Diagnostic_procedure 3241 3247	mobile
+T259	Activity 3249 3256	walking
+T260	Qualitative_concept 3275 3283	hospital
+T261	Disease_disorder 3295 3371	We withdrew the drain by a further 3 cm to reduce possible thymic irritation
+T262	Activity 3298 3306	withdrew
+T263	Procedure 3311 3316	drain
+T264	Disease_disorder 3332 3334	cm
+T265	Lab 3335 3337	to
+T266	Qualitative_concept 3345 3353	possible
+T267	Anatomical_structure 3354 3360	thymic
+T268	Disease_disorder 3361 3371	irritation
+T269	Quantitative_concept 3405 3407	mL
+T270	Procedure 3415 3431	A lymphangiogram
+T271	Diagnostic_procedure 3417 3431	lymphangiogram
+T272	Lab 3452 3466	99mTc-antimony
+T273	Lab 3467 3474	colloid
+T274	Quantitative_concept 3505 3509	feet
+T275	Lab 3510 3512	to
+T276	Disease_disorder 3540 3544	leak
+T277	Disease_disorder 3563 3571	activity
+T278	Qualitative_concept 3572 3576	seen
+T279	Anatomical_structure 3589 3605	lymphatic system
+T280	Anatomical_structure 3589 3598	lymphatic
+T281	Anatomical_structure 3613 3624	pericardium
+T282	Qualitative_concept 3634 3641	delayed
+T283	Procedure 3634 3647	delayed scans
+T284	Diagnostic_procedure 3642 3647	scans
+T285	Procedure 3649 3661	The drainage
+T286	Procedure 3653 3661	drainage
+T287	Qualitative_concept 3673 3680	reduced
+T288	Lab 3713 3720	patient
+T289	Sign_symptom 3740 3793	follow-up with transthoracic echocardiography 6 weeks
+T290	Sign_symptom 3740 3749	follow-up
+T291	Diagnostic_procedure 3755 3785	transthoracic echocardiography
+T292	Diagnostic_procedure 3769 3785	echocardiography
+T293	Quantitative_concept 3804 3809	found
+T294	Disease_disorder 3825 3835	recurrence

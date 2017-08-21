@@ -1,0 +1,302 @@
+T1	Disease_disorder 9 20	4-month-old
+T2	Disease_disorder 45 104	our center because of cardiogenic shock with unknown origin
+T3	Disease_disorder 49 55	center
+T4	Disease_disorder 67 84	cardiogenic shock
+T5	Disease_disorder 79 84	shock
+T6	Diagnostic_procedure 106 131	Emergent echocardiography
+T7	Diagnostic_procedure 115 131	echocardiography
+T8	Disease_disorder 142 200	a dilated left ventricle with an ejection fraction of 10 %
+T9	Disease_disorder 144 151	dilated
+T10	Disease_disorder 144 166	dilated left ventricle
+T11	Lab 152 192	left ventricle with an ejection fraction
+T12	Anatomical_structure 152 166	left ventricle
+T13	Anatomical_structure 157 166	ventricle
+T14	Sign_symptom 175 183	ejection
+T15	Disease_disorder 196 198	10
+T16	Sign_symptom 238 261	ventricular tachycardia
+T17	Sign_symptom 250 261	tachycardia
+T18	Sign_symptom 266 286	circulatory collapse
+T19	Sign_symptom 278 286	collapse
+T20	Procedure 299 334	extracorporeal membrane oxygenation
+T21	Procedure 336 340	ECMO
+T22	Procedure 347 365	arterial perfusion
+T23	Procedure 347 401	arterial perfusion through an ascending aortic cannula
+T24	Anatomical_structure 347 355	arterial
+T25	Procedure 356 365	perfusion
+T26	Anatomical_structure 377 393	ascending aortic
+T27	Qualitative_concept 377 386	ascending
+T28	Anatomical_structure 387 393	aortic
+T29	Anatomical_structure 406 442	venous inflow through a right atrial
+T30	Procedure 406 482	venous inflow through a right atrial single cannula via a midline sternotomy
+T31	Anatomical_structure 406 412	venous
+T32	Anatomical_structure 436 442	atrial
+T33	Quantitative_concept 443 449	single
+T34	Procedure 472 482	sternotomy
+T35	Diagnostic_procedure 484 511	Epicardial echocardiography
+T36	Diagnostic_procedure 495 511	echocardiography
+T37	Anatomical_structure 548 573	left main coronary artery
+T38	Anatomical_structure 558 573	coronary artery
+T39	Anatomical_structure 567 573	artery
+T40	Qualitative_concept 575 581	Direct
+T41	Procedure 575 593	Direct aortography
+T42	Diagnostic_procedure 582 593	aortography
+T43	Qualitative_concept 594 602	revealed
+T44	Disease_disorder 603 663	99 % stenosis of the ostium of the left main coronary artery
+T45	Disease_disorder 608 616	stenosis
+T46	Disease_disorder 608 663	stenosis of the ostium of the left main coronary artery
+T47	Anatomical_structure 624 663	ostium of the left main coronary artery
+T48	Anatomical_structure 624 630	ostium
+T49	Anatomical_structure 638 663	left main coronary artery
+T50	Anatomical_structure 648 663	coronary artery
+T51	Anatomical_structure 657 663	artery
+T52	Anatomical_structure 672 693	right coronary artery
+T53	Activity 694 703	connected
+T54	Anatomical_structure 711 733	left coronary arteries
+T55	Anatomical_structure 711 764	left coronary arteries with small collateral arteries
+T56	Anatomical_structure 716 764	coronary arteries with small collateral arteries
+T57	Anatomical_structure 716 733	coronary arteries
+T58	Anatomical_structure 725 733	arteries
+T59	Anatomical_structure 739 764	small collateral arteries
+T60	Anatomical_structure 745 755	collateral
+T61	Procedure 770 774	ECMO
+T62	Anatomical_structure 780 795	ascending aorta
+T63	Anatomical_structure 790 795	aorta
+T64	Lab 800 807	clamped
+T65	Disease_disorder 812 826	cardiac arrest
+T66	Anatomical_structure 812 819	cardiac
+T67	Disease_disorder 844 884	a cold crystalloid cardioplegic solution
+T68	Disease_disorder 846 850	cold
+T69	Lab 851 884	crystalloid cardioplegic solution
+T70	Procedure 908 974	The infant underwentcoronary osteoplasty with an azygos vein patch
+T71	Procedure 937 948	osteoplasty
+T72	Anatomical_structure 957 968	azygos vein
+T73	Anatomical_structure 964 974	vein patch
+T74	Anatomical_structure 964 968	vein
+T75	Disease_disorder 1000 1004	used
+T76	Sign_symptom 1008 1015	a patch
+T77	Sign_symptom 1010 1015	patch
+T78	Lab 1016 1018	to
+T79	Quantitative_concept 1019 1026	augment
+T80	Disease_disorder 1031 1072	stenotic ostium of the left main coronary
+T81	Anatomical_structure 1040 1046	ostium
+T82	Anatomical_structure 1073 1078	trunk
+T83	Qualitative_concept 1090 1094	main
+T84	Anatomical_structure 1095 1111	pulmonary artery
+T85	Anatomical_structure 1105 1111	artery
+T86	Disease_disorder 1142 1151	retracted
+T87	Lab 1162 1164	to
+T88	Anatomical_structure 1176 1201	left main coronary artery
+T89	Anatomical_structure 1186 1201	coronary artery
+T90	Procedure 1203 1239	The anterior oblique aortic incision
+T91	Anatomical_structure 1224 1230	aortic
+T92	Procedure 1231 1239	incision
+T93	Disease_disorder 1305 1313	stenotic
+T94	Anatomical_structure 1314 1320	ostium
+T95	Anatomical_structure 1325 1330	fresh
+T96	Anatomical_structure 1331 1342	azygos vein
+T97	Anatomical_structure 1338 1348	vein patch
+T98	Anatomical_structure 1338 1342	vein
+T99	Lab 1343 1348	patch
+T100	Disease_disorder 1391 1394	8-0
+T101	Anatomical_structure 1420 1425	heart
+T102	Disease_disorder 1435 1447	resuscitated
+T103	Procedure 1451 1455	ECMO
+T104	Procedure 1451 1474	ECMO support for 4 days
+T105	Procedure 1456 1463	support
+T106	Lab 1484 1491	patient
+T107	Disease_disorder 1509 1515	weaned
+T108	Anatomical_structure 1530 1539	discharge
+T109	Diagnostic_procedure 1541 1557	echocardiography
+T110	Sign_symptom 1628 1669	normal left ventricular systolic function
+T111	Sign_symptom 1628 1634	normal
+T112	Sign_symptom 1628 1703	normal left ventricular systolic function with an ejection fraction of 65 %
+T113	Sign_symptom 1635 1669	left ventricular systolic function
+T114	Sign_symptom 1678 1686	ejection
+T115	Quantitative_concept 1687 1698	fraction of
+T116	Disease_disorder 1699 1701	65
+T117	Procedure 1705 1725	Coronary angiography
+T118	Procedure 1714 1725	angiography
+T119	Procedure 1740 1762	6 months after surgery
+T120	Procedure 1755 1762	surgery
+T121	Disease_disorder 1780 1871	a patent and smooth internal surface of LMT without aneurysmal dilatation and calcification
+T122	Qualitative_concept 1793 1799	smooth
+T123	Qualitative_concept 1800 1808	internal
+T124	Disease_disorder 1832 1853	aneurysmal dilatation
+T125	Disease_disorder 1843 1853	dilatation
+T126	Disease_disorder 1858 1871	calcification
+T127	Anatomical_structure 1878 1888	collateral
+T128	Anatomical_structure 1889 1906	coronary arteries
+T129	Anatomical_structure 1898 1906	arteries
+T130	Qualitative_concept 1939 1943	well
+T131	Sign_symptom 1948 2007	3 years after surgery with a normal echocardiographic study
+T132	Procedure 1962 1969	surgery
+T133	Sign_symptom 1977 1983	normal
+T134	Diagnostic_procedure 1984 2007	echocardiographic study
+T135	Procedure 2012 2055	cardiothoracic ratio of 45 % on chest X-ray
+T136	Quantitative_concept 2027 2032	ratio
+T137	Procedure 2044 2055	chest X-ray
+T138	Anatomical_structure 2044 2049	chest
+T139	Procedure 2050 2055	X-ray
+T140	Disease_disorder 2066 2078	10-month-old
+T141	Disease_disorder 2100 2142	our center because of mitral regurgitation
+T142	Disease_disorder 2104 2110	center
+T143	Disease_disorder 2122 2142	mitral regurgitation
+T144	Sign_symptom 2129 2142	regurgitation
+T145	Diagnostic_procedure 2144 2160	Echocardiography
+T146	Sign_symptom 2168 2192	no blood flow to the LMT
+T147	Sign_symptom 2171 2181	blood flow
+T148	Anatomical_structure 2171 2176	blood
+T149	Disease_disorder 2197 2219	increased echogenicity
+T150	Anatomical_structure 2227 2244	papillary muscles
+T151	Anatomical_structure 2237 2244	muscles
+T152	Qualitative_concept 2256 2262	severe
+T153	Disease_disorder 2256 2289	severe mitral valve regurgitation
+T154	Disease_disorder 2263 2289	mitral valve regurgitation
+T155	Anatomical_structure 2263 2275	mitral valve
+T156	Sign_symptom 2276 2289	regurgitation
+T157	Diagnostic_procedure 2291 2311	Coronary angiography
+T158	Procedure 2300 2311	angiography
+T159	Qualitative_concept 2312 2320	revealed
+T160	Disease_disorder 2321 2323	90
+T161	Disease_disorder 2321 2345	90 % stenosis of the LMT
+T162	Disease_disorder 2326 2334	stenosis
+T163	Procedure 2361 2387	the angioplasty of the LMT
+T164	Procedure 2365 2376	angioplasty
+T165	Sign_symptom 2394 2459	an autologous azygos vein patch with the same technique as Case 1
+T166	Anatomical_structure 2397 2425	autologous azygos vein patch
+T167	Anatomical_structure 2397 2419	autologous azygos vein
+T168	Anatomical_structure 2408 2419	azygos vein
+T169	Anatomical_structure 2415 2425	vein patch
+T170	Anatomical_structure 2415 2419	vein
+T171	Sign_symptom 2420 2425	patch
+T172	Qualitative_concept 2435 2439	same
+T173	Qualitative_concept 2474 2484	artificial
+T174	Disease_disorder 2498 2507	implanted
+T175	Anatomical_structure 2515 2538	anterior mitral leaflet
+T176	Anatomical_structure 2524 2538	mitral leaflet
+T177	Anatomical_structure 2547 2566	anterior commissure
+T178	Procedure 2649 2672	cardiac catheterization
+T179	Anatomical_structure 2649 2656	cardiac
+T180	Procedure 2657 2672	catheterization
+T181	Qualitative_concept 2708 2724	mild-to-moderate
+T182	Disease_disorder 2708 2745	mild-to-moderate mitral regurgitation
+T183	Disease_disorder 2725 2745	mitral regurgitation
+T184	Sign_symptom 2732 2745	regurgitation
+T185	Lab 2750 2755	noted
+T186	Disease_disorder 2759 2769	2-year-old
+T187	Disease_disorder 2791 2846	our center for surgical treatment of an LMT obstruction
+T188	Disease_disorder 2795 2801	center
+T189	Procedure 2806 2814	surgical
+T190	Procedure 2815 2824	treatment
+T191	Disease_disorder 2835 2846	obstruction
+T192	Qualitative_concept 2851 2857	severe
+T193	Disease_disorder 2851 2878	severe mitral regurgitation
+T194	Disease_disorder 2858 2878	mitral regurgitation
+T195	Sign_symptom 2865 2878	regurgitation
+T196	Disease_disorder 2889 2902	the diagnosis
+T197	Sign_symptom 2893 2902	diagnosis
+T198	Procedure 2915 2978	the age of 5 months in a former hospital, surgical intervention
+T199	Lab 2919 2934	age of 5 months
+T200	Qualitative_concept 2947 2955	hospital
+T201	Disease_disorder 2957 2978	surgical intervention
+T202	Procedure 2957 2965	surgical
+T203	Procedure 3000 3034	postoperative coronary angiography
+T204	Procedure 3014 3039	coronary angiography. a C
+T205	Procedure 3014 3034	coronary angiography
+T206	Procedure 3023 3034	angiography
+T207	Procedure 3034 3038	. a 
+T208	Procedure 3034 3042	. a Cont
+T209	Procedure 3034 3039	. a C
+T210	Anatomical_structure 3034 3039	. a C
+T211	Anatomical_structure 3034 3039	. a C
+T212	Qualitative_concept 3154 3160	Severe
+T213	Disease_disorder 3154 3202	Severe stenosis of the left main coronary artery
+T214	Disease_disorder 3161 3202	stenosis of the left main coronary artery
+T215	Disease_disorder 3161 3169	stenosis
+T216	Anatomical_structure 3177 3202	left main coronary artery
+T217	Anatomical_structure 3187 3202	coronary artery
+T218	Anatomical_structure 3196 3202	artery
+T219	Qualitative_concept 3207 3217	identified
+T220	Activity 3219 3222	see
+T221	Procedure 3231 3267	b Postoperative coronary angiography
+T222	Procedure 3247 3267	coronary angiography
+T223	Procedure 3256 3267	angiography
+T224	Procedure 3289 3311	6 months after surgery
+T225	Procedure 3304 3311	surgery
+T226	Qualitative_concept 3322 3328	smooth
+T227	Qualitative_concept 3329 3334	shape
+T228	Quantitative_concept 3378 3387	augmented
+T229	Anatomical_structure 3396 3407	azygos vein
+T230	Anatomical_structure 3403 3407	vein
+T231	Sign_symptom 3434 3444	difficulty
+T232	Sign_symptom 3434 3455	difficulty in surgery
+T233	Procedure 3457 3477	A coronary angiogram
+T234	Procedure 3459 3477	coronary angiogram
+T235	Procedure 3468 3477	angiogram
+T236	Disease_disorder 3491 3511	complete obstruction
+T237	Disease_disorder 3491 3522	complete obstruction of the LMT
+T238	Disease_disorder 3500 3511	obstruction
+T239	Quantitative_concept 3537 3541	6-mm
+T240	Quantitative_concept 3542 3550	distance
+T241	Qualitative_concept 3563 3572	ascending
+T242	Anatomical_structure 3573 3585	aortic lumen
+T243	Anatomical_structure 3573 3579	aortic
+T244	Anatomical_structure 3580 3585	lumen
+T245	Disease_disorder 3590 3629	the proximal blind end of the LMT which
+T246	Disease_disorder 3603 3608	blind
+T247	Diagnostic_procedure 3630 3638	measured
+T248	Lab 3639 3645	1.2 mm
+T249	Quantitative_concept 3649 3657	diameter
+T250	Procedure 3673 3699	coronary revascularization
+T251	Procedure 3682 3699	revascularization
+T252	Anatomical_structure 3709 3720	azygos vein
+T253	Anatomical_structure 3716 3720	vein
+T254	Anatomical_structure 3744 3759	ascending aorta
+T255	Anatomical_structure 3754 3759	aorta
+T256	Qualitative_concept 3810 3816	mitral
+T257	Qualitative_concept 3830 3839	shortened
+T258	Anatomical_structure 3848 3874	anterior mitral commissure
+T259	Procedure 3889 3926	Postoperative cardiac catheterization
+T260	Procedure 3903 3926	cardiac catheterization
+T261	Anatomical_structure 3903 3910	cardiac
+T262	Procedure 3911 3926	catheterization
+T263	Procedure 3938 3961	17 months after surgery
+T264	Procedure 3954 3961	surgery
+T265	Disease_disorder 3963 3972	indicated
+T266	Procedure 3978 3994	the bypass graft
+T267	Procedure 3982 3994	bypass graft
+T268	Procedure 3982 3988	bypass
+T269	Anatomical_structure 3989 3994	graft
+T270	Anatomical_structure 4014 4019	graft
+T271	Qualitative_concept 4029 4035	smooth
+T272	Lab 4042 4044	LV
+T273	Lab 4045 4065	end-diastolic volume
+T274	Qualitative_concept 4070 4079	decreased
+T275	Sign_symptom 4085 4118	405 to 200 % of the normal volume
+T276	Quantitative_concept 4105 4118	normal volume
+T277	Sign_symptom 4105 4111	normal
+T278	Quantitative_concept 4120 4123	Two
+T279	Procedure 4120 4143	Two years after surgery
+T280	Procedure 4136 4143	surgery
+T281	Procedure 4145 4168	cardiac catheterization
+T282	Anatomical_structure 4145 4152	cardiac
+T283	Procedure 4153 4168	catheterization
+T284	Qualitative_concept 4193 4204	significant
+T285	Disease_disorder 4193 4234	significant residual mitral regurgitation
+T286	Qualitative_concept 4205 4213	residual
+T287	Disease_disorder 4214 4234	mitral regurgitation
+T288	Sign_symptom 4221 4234	regurgitation
+T289	Qualitative_concept 4244 4251	organic
+T290	Sign_symptom 4244 4302	organic changes of the mitral apparatus with calcification
+T291	Quantitative_concept 4252 4259	changes
+T292	Qualitative_concept 4267 4273	mitral
+T293	Anatomical_structure 4274 4283	apparatus
+T294	Disease_disorder 4289 4302	calcification
+T295	Lab 4308 4313	noted
+T296	Anatomical_structure 4319 4331	mitral valve
+T297	Anatomical_structure 4363 4368	valve
+T298	Qualitative_concept 4427 4431	well
+T299	Procedure 4438 4466	the mitral valve replacement
+T300	Procedure 4442 4466	mitral valve replacement
+T301	Anatomical_structure 4442 4454	mitral valve
+T302	Procedure 4455 4466	replacement

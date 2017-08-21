@@ -1,0 +1,261 @@
+T1	Sign_symptom 0 98	A 39-year-old woman with a 9-week abdominal pregnancy noted pain in her lower abdomen and left leg
+T2	Lab 14 53	woman with a 9-week abdominal pregnancy
+T3	Disease_disorder 27 53	9-week abdominal pregnancy
+T4	Anatomical_structure 34 43	abdominal
+T5	Disease_disorder 34 53	abdominal pregnancy
+T6	Sign_symptom 34 67	abdominal pregnancy noted pain in
+T7	Sign_symptom 34 64	abdominal pregnancy noted pain
+T8	Sign_symptom 44 53	pregnancy
+T9	Lab 54 59	noted
+T10	Sign_symptom 60 85	pain in her lower abdomen
+T11	Sign_symptom 60 64	pain
+T12	Anatomical_structure 72 98	lower abdomen and left leg
+T13	Anatomical_structure 72 85	lower abdomen
+T14	Anatomical_structure 78 85	abdomen
+T15	Anatomical_structure 90 98	left leg
+T16	Anatomical_structure 95 98	leg
+T17	Activity 103 110	visited
+T18	Qualitative_concept 115 123	hospital
+T19	Sign_symptom 133 154	a full-time housewife
+T20	Sign_symptom 135 144	full-time
+T21	Sign_symptom 165 184	her first pregnancy
+T22	Sign_symptom 169 184	first pregnancy
+T23	Sign_symptom 175 184	pregnancy
+T24	Sign_symptom 207 231	a history of miscarriage
+T25	Sign_symptom 209 231	history of miscarriage
+T26	Sign_symptom 209 219	history of
+T27	Sign_symptom 209 216	history
+T28	Sign_symptom 220 231	miscarriage
+T29	Qualitative_concept 245 252	receive
+T30	Procedure 253 278	any infertility treatment
+T31	Procedure 257 278	infertility treatment
+T32	Disease_disorder 257 268	infertility
+T33	Procedure 269 278	treatment
+T34	Disease_disorder 284 317	results of a physical examination
+T35	Lab 321 327	height
+T36	Lab 329 335	weight
+T37	Lab 337 353	body temperature
+T38	Sign_symptom 355 369	blood pressure
+T39	Anatomical_structure 355 360	blood
+T40	Sign_symptom 361 369	pressure
+T41	Lab 371 381	heart rate
+T42	Anatomical_structure 371 376	heart
+T43	Disease_disorder 409 415	153 cm
+T44	Disease_disorder 413 415	cm
+T45	Quantitative_concept 422 424	kg
+T46	Quantitative_concept 438 442	mmHg
+T47	Disease_disorder 444 450	83/min
+T48	Sign_symptom 478 495	abnormal findings
+T49	Sign_symptom 487 495	findings
+T50	Qualitative_concept 496 504	revealed
+T51	Sign_symptom 505 512	redness
+T52	Sign_symptom 505 543	redness and swelling of the left thigh
+T53	Disease_disorder 517 525	swelling
+T54	Disease_disorder 517 543	swelling of the left thigh
+T55	Anatomical_structure 533 543	left thigh
+T56	Anatomical_structure 538 543	thigh
+T57	Disease_disorder 548 561	abnormalities
+T58	Qualitative_concept 567 571	seen
+T59	Procedure 575 610	an electrocardiogram or chest X-ray
+T60	Disease_disorder 578 595	electrocardiogram
+T61	Procedure 599 610	chest X-ray
+T62	Anatomical_structure 599 604	chest
+T63	Procedure 605 610	X-ray
+T64	Disease_disorder 668 694	increased white blood cell
+T65	Anatomical_structure 678 694	white blood cell
+T66	Medication 678 726	white blood cell and D-dimer levels in the blood
+T67	Anatomical_structure 684 694	blood cell
+T68	Anatomical_structure 690 694	cell
+T69	Lab 699 706	D-dimer
+T70	Qualitative_concept 707 713	levels
+T71	Anatomical_structure 721 726	blood
+T72	Diagnostic_procedure 741 756	ultrasonography
+T73	Procedure 741 773	ultrasonography of the leg veins
+T74	Anatomical_structure 764 767	leg
+T75	Anatomical_structure 768 773	veins
+T76	Lab 774 776	to
+T77	Activity 777 783	assess
+T78	Disease_disorder 784 821	suspected left deep venous thrombosis
+T79	Disease_disorder 799 821	deep venous thrombosis
+T80	Disease_disorder 804 821	venous thrombosis
+T81	Anatomical_structure 804 810	venous
+T82	Disease_disorder 811 821	thrombosis
+T83	Disease_disorder 838 853	a thrombus that
+T84	Disease_disorder 840 848	thrombus
+T85	Anatomical_structure 878 897	external iliac vein
+T86	Anatomical_structure 878 919	external iliac vein to the popliteal vein
+T87	Anatomical_structure 887 919	iliac vein to the popliteal vein
+T88	Anatomical_structure 887 897	iliac vein
+T89	Anatomical_structure 887 892	iliac
+T90	Anatomical_structure 893 897	vein
+T91	Anatomical_structure 905 919	popliteal vein
+T92	Anatomical_structure 905 914	popliteal
+T93	Disease_disorder 942 965	a diagnosis of left DVT
+T94	Disease_disorder 944 953	diagnosis
+T95	Lab 962 965	DVT
+T96	Qualitative_concept 967 969	To
+T97	Disease_disorder 979 1029	the potential for pulmonary thromboembolism in DVT
+T98	Qualitative_concept 983 992	potential
+T99	Disease_disorder 997 1022	pulmonary thromboembolism
+T100	Disease_disorder 1007 1022	thromboembolism
+T101	Lab 1026 1029	DVT
+T102	Activity 1044 1061	contrast-enhanced
+T103	Diagnostic_procedure 1044 1081	contrast-enhanced computed tomography
+T104	Procedure 1071 1081	tomography
+T105	Procedure 1083 1085	CT
+T106	Qualitative_concept 1103 1111	informed
+T107	Disease_disorder 1133 1154	a successive thrombus
+T108	Disease_disorder 1146 1154	thrombus
+T109	Anatomical_structure 1174 1196	left common iliac vein
+T110	Anatomical_structure 1179 1196	common iliac vein
+T111	Anatomical_structure 1186 1196	iliac vein
+T112	Anatomical_structure 1186 1191	iliac
+T113	Anatomical_structure 1192 1196	vein
+T114	Anatomical_structure 1244 1265	left pulmonary artery
+T115	Anatomical_structure 1249 1265	pulmonary artery
+T116	Anatomical_structure 1259 1265	artery
+T117	Disease_disorder 1285 1333	a diagnosis of pulmonary thromboembolism and DVT
+T118	Disease_disorder 1287 1296	diagnosis
+T119	Disease_disorder 1300 1325	pulmonary thromboembolism
+T120	Disease_disorder 1310 1325	thromboembolism
+T121	Lab 1330 1333	DVT
+T122	Sign_symptom 1336 1350	These findings
+T123	Sign_symptom 1342 1350	findings
+T124	Disease_disorder 1372 1392	May-Thurner syndrome
+T125	Disease_disorder 1384 1392	syndrome
+T126	Disease_disorder 1401 1444	the thrombus in a deep vein in the left leg
+T127	Disease_disorder 1405 1413	thrombus
+T128	Anatomical_structure 1419 1428	deep vein
+T129	Anatomical_structure 1424 1428	vein
+T130	Anatomical_structure 1436 1444	left leg
+T131	Anatomical_structure 1441 1444	leg
+T132	Activity 1445 1453	occurred
+T133	Activity 1461 1472	compression
+T134	Disease_disorder 1461 1517	compression of the left common iliac vein under pressure
+T135	Disease_disorder 1461 1502	compression of the left common iliac vein
+T136	Anatomical_structure 1480 1502	left common iliac vein
+T137	Anatomical_structure 1485 1502	common iliac vein
+T138	Anatomical_structure 1492 1502	iliac vein
+T139	Anatomical_structure 1492 1497	iliac
+T140	Sign_symptom 1509 1517	pressure
+T141	Anatomical_structure 1532 1557	right common iliac artery
+T142	Anatomical_structure 1538 1557	common iliac artery
+T143	Anatomical_structure 1545 1557	iliac artery
+T144	Anatomical_structure 1551 1557	artery
+T145	Anatomical_structure 1564 1578	vertebral body
+T146	Anatomical_structure 1564 1573	vertebral
+T147	Disease_disorder 1594 1605	dehydration
+T148	Sign_symptom 1621 1632	hyperemesis
+T149	Quantitative_concept 1671 1675	hand
+T150	Sign_symptom 1688 1731	no abnormal findings on various blood tests
+T151	Sign_symptom 1691 1731	abnormal findings on various blood tests
+T152	Sign_symptom 1700 1708	findings
+T153	Lab 1712 1719	various
+T154	Procedure 1720 1731	blood tests
+T155	Anatomical_structure 1720 1725	blood
+T156	Procedure 1726 1731	tests
+T157	Lab 1746 1786	a predisposition to thrombus development
+T158	Lab 1748 1762	predisposition
+T159	Disease_disorder 1766 1774	thrombus
+T160	Lab 1775 1786	development
+T161	Anatomical_structure 1832 1850	inferior vena cava
+T162	Anatomical_structure 1841 1850	vena cava
+T163	Anatomical_structure 1867 1888	internal jugular vein
+T164	Anatomical_structure 1876 1888	jugular vein
+T165	Anatomical_structure 1884 1888	vein
+T166	Lab 1889 1891	to
+T167	Lab 1892 1899	prevent
+T168	Disease_disorder 1900 1941	further progression of pulmonary embolism
+T169	Disease_disorder 1908 1919	progression
+T170	Disease_disorder 1923 1941	pulmonary embolism
+T171	Disease_disorder 1933 1941	embolism
+T172	Qualitative_concept 1946 1953	started
+T173	Procedure 1954 1986	a continuous infusion of heparin
+T174	Procedure 1956 1986	continuous infusion of heparin
+T175	Procedure 1956 1975	continuous infusion
+T176	Procedure 1967 1975	infusion
+T177	Medication 1979 1986	heparin
+T178	Quantitative_concept 1988 1995	setting
+T179	Procedure 1996 2024	a goal of APTT of 1.5-2 fold
+T180	Diagnostic_procedure 2006 2010	APTT
+T181	Disease_disorder 2060 2102	the thrombus in the left common iliac vein
+T182	Disease_disorder 2064 2072	thrombus
+T183	Anatomical_structure 2080 2102	left common iliac vein
+T184	Anatomical_structure 2085 2102	common iliac vein
+T185	Anatomical_structure 2092 2102	iliac vein
+T186	Anatomical_structure 2092 2097	iliac
+T187	Anatomical_structure 2098 2102	vein
+T188	Activity 2116 2124	assessed
+T189	Diagnostic_procedure 2128 2138	ultrasound
+T190	Disease_disorder 2155 2169	the thrombosis
+T191	Disease_disorder 2159 2169	thrombosis
+T192	Qualitative_concept 2174 2184	stabilized
+T193	Quantitative_concept 2212 2217	First
+T194	Sign_symptom 2219 2241	the patient's symptoms
+T195	Sign_symptom 2223 2241	patient's symptoms
+T196	Sign_symptom 2233 2241	symptoms
+T197	Qualitative_concept 2255 2261	Second
+T198	Disease_disorder 2263 2296	the disappearance of inflammation
+T199	Disease_disorder 2284 2296	inflammation
+T200	Medication 2301 2335	normalization of the D-dimer level
+T201	Lab 2322 2329	D-dimer
+T202	Qualitative_concept 2330 2335	level
+T203	Qualitative_concept 2341 2350	confirmed
+T204	Diagnostic_procedure 2354 2365	blood tests
+T205	Anatomical_structure 2354 2359	blood
+T206	Procedure 2360 2365	tests
+T207	Quantitative_concept 2367 2372	Third
+T208	Disease_disorder 2374 2386	the thrombus
+T209	Disease_disorder 2378 2386	thrombus
+T210	Qualitative_concept 2391 2406	reduced in size
+T211	Disease_disorder 2411 2439	the residual thrombus tissue
+T212	Anatomical_structure 2415 2439	residual thrombus tissue
+T213	Anatomical_structure 2433 2439	tissue
+T214	Diagnostic_procedure 2457 2467	ultrasound
+T215	Qualitative_concept 2483 2490	removed
+T216	Anatomical_structure 2505 2523	inferior vena cava
+T217	Anatomical_structure 2514 2523	vena cava
+T218	Qualitative_concept 2564 2571	started
+T219	Lab 2572 2574	to
+T220	Medication 2582 2589	heparin
+T221	Procedure 2619 2646	this treatment at discharge
+T222	Procedure 2624 2633	treatment
+T223	Anatomical_structure 2637 2646	discharge
+T224	Procedure 2648 2672	The target value of APTT
+T225	Diagnostic_procedure 2652 2658	target
+T226	Diagnostic_procedure 2668 2672	APTT
+T227	Lab 2677 2680	set
+T228	Quantitative_concept 2681 2689	1.5-fold
+T229	Qualitative_concept 2690 2696	higher
+T230	Quantitative_concept 2706 2711	value
+T231	Qualitative_concept 2735 2748	approximately
+T232	Quantitative_concept 2756 2765	units/day
+T233	Medication 2769 2776	heparin
+T234	Lab 2794 2802	warfarin
+T235	Disease_disorder 2812 2870	the consideration of possible adverse effects on the fetus
+T236	Disease_disorder 2816 2829	consideration
+T237	Qualitative_concept 2833 2841	possible
+T238	Disease_disorder 2842 2857	adverse effects
+T239	Anatomical_structure 2865 2870	fetus
+T240	Lab 2894 2901	patient
+T241	Sign_symptom 2912 2946	her pregnancy without any problems
+T242	Sign_symptom 2916 2946	pregnancy without any problems
+T243	Sign_symptom 2916 2925	pregnancy
+T244	Sign_symptom 2938 2946	problems
+T245	Lab 2956 2961	birth
+T246	Sign_symptom 2956 3012	birth to a healthy baby at 38 weeks via vaginal delivery
+T247	Qualitative_concept 2967 2979	healthy baby
+T248	Disease_disorder 2996 3012	vaginal delivery
+T249	Anatomical_structure 2996 3003	vaginal
+T250	Procedure 3004 3012	delivery
+T251	Procedure 3014 3029	A CT assessment
+T252	Diagnostic_procedure 3016 3018	CT
+T253	Activity 3019 3029	assessment
+T254	Lab 3046 3051	birth
+T255	Disease_disorder 3064 3076	the thrombus
+T256	Disease_disorder 3068 3076	thrombus
+T257	Quantitative_concept 3087 3094	present
+T258	Lab 3100 3108	warfarin
+T259	Procedure 3100 3116	warfarin therapy
+T260	Procedure 3109 3116	therapy
+T261	Qualitative_concept 3121 3128	started

@@ -1,0 +1,341 @@
+T1	Lab 0 2	WD
+T2	Disease_disorder 9 77	a 45-year-old, single male with a diagnosis of chronic schizophrenia
+T3	Quantitative_concept 24 30	single
+T4	Sign_symptom 31 35	male
+T5	Disease_disorder 43 52	diagnosis
+T6	Disease_disorder 56 77	chronic schizophrenia
+T7	Disease_disorder 64 77	schizophrenia
+T8	Quantitative_concept 131 135	unit
+T9	Qualitative_concept 155 159	well
+T10	Sign_symptom 168 174	normal
+T11	Sign_symptom 168 196	normal metabolic functioning
+T12	Lab 175 184	metabolic
+T13	Lab 198 200	WD
+T14	Qualitative_concept 210 216	stable
+T15	Medication 220 242	clozapine for 10 years
+T16	Disease_disorder 234 236	10
+T17	Quantitative_concept 249 252	one
+T18	Disease_disorder 249 305	one significant relapse in 2012 following self-cessation
+T19	Qualitative_concept 253 264	significant
+T20	Disease_disorder 265 272	relapse
+T21	Activity 291 305	self-cessation
+T22	Disease_disorder 324 333	catatonia
+T23	Procedure 339 383	required emergency electroconvulsive therapy
+T24	Disease_disorder 348 357	emergency
+T25	Procedure 348 383	emergency electroconvulsive therapy
+T26	Procedure 358 383	electroconvulsive therapy
+T27	Procedure 376 383	therapy
+T28	Procedure 385 388	ECT
+T29	Quantitative_concept 399 411	re-titration
+T30	Medication 399 424	re-titration of clozapine
+T31	Medication 415 424	clozapine
+T32	Qualitative_concept 448 456	February
+T33	Disease_disorder 465 474	catatonic
+T34	Sign_symptom 479 521	the context of self-cessation of clozapine
+T35	Sign_symptom 483 490	context
+T36	Activity 494 508	self-cessation
+T37	Medication 512 521	clozapine
+T38	Sign_symptom 528 544	his mental state
+T39	Sign_symptom 532 544	mental state
+T40	Sign_symptom 565 572	periods
+T41	Sign_symptom 565 585	periods of agitation
+T42	Sign_symptom 576 585	agitation
+T43	Disease_disorder 590 596	mutism
+T44	Medication 621 645	intramuscular olanzapine
+T45	Medication 635 645	olanzapine
+T46	Medication 651 673	zuclopenthixol acetate
+T47	Medication 651 665	zuclopenthixol
+T48	Medication 666 673	acetate
+T49	Qualitative_concept 675 677	WD
+T50	Qualitative_concept 688 692	well
+T51	Procedure 696 699	ECT
+T52	Qualitative_concept 704 709	total
+T53	Activity 723 731	sessions
+T54	Qualitative_concept 744 751	initial
+T55	Disease_disorder 752 773	phase of his recovery
+T56	Disease_disorder 814 835	neuroleptic malignant
+T57	Disease_disorder 814 844	neuroleptic malignant syndrome
+T58	Disease_disorder 836 844	syndrome
+T59	Lab 853 864	temperature
+T60	Medication 869 875	?C, cr
+T61	Procedure 869 871	?C
+T62	Disease_disorder 869 872	?C,
+T63	Medication 869 877	?C, crea
+T64	Lab 1036 1045	patient's
+T65	Procedure 1043 1059	's course of ECT
+T66	Procedure 1056 1059	ECT
+T67	Medication 1061 1070	clozapine
+T68	Medication 1061 1080	clozapine titration
+T69	Diagnostic_procedure 1071 1080	titration
+T70	Activity 1085 1094	commenced
+T71	Disease_disorder 1103 1108	fast'
+T72	Sign_symptom 1103 1107	fast
+T73	Lab 1126 1130	WD's
+T74	Sign_symptom 1126 1156	WD's baseline cardiac function
+T75	Lab 1131 1139	baseline
+T76	Sign_symptom 1140 1156	cardiac function
+T77	Anatomical_structure 1140 1147	cardiac
+T78	Qualitative_concept 1168 1174	normal
+T79	Sign_symptom 1181 1219	his left ventricular ejection fraction
+T80	Sign_symptom 1185 1219	left ventricular ejection fraction
+T81	Sign_symptom 1202 1210	ejection
+T82	Qualitative_concept 1239 1247	measured
+T83	Lab 1277 1285	Baseline
+T84	Lab 1286 1301	cardiac enzymes
+T85	Anatomical_structure 1286 1293	cardiac
+T86	Qualitative_concept 1312 1318	normal
+T87	Procedure 1320 1330	Troponin I
+T88	Disease_disorder 1333 1337	0.03
+T89	Quantitative_concept 1338 1343	ug/l;
+T90	Lab 1344 1346	CK
+T91	Quantitative_concept 1351 1355	iu/l
+T92	Qualitative_concept 1367 1371	full
+T93	Diagnostic_procedure 1372 1389	blood examination
+T94	Anatomical_structure 1372 1377	blood
+T95	Disease_disorder 1400 1417	electrocardiogram
+T96	Procedure 1419 1422	ECG
+T97	Lab 1425 1443	C-reactive protein
+T98	Procedure 1436 1443	protein
+T99	Procedure 1445 1448	CRP
+T100	Quantitative_concept 1454 1461	22 mg/l
+T101	Quantitative_concept 1457 1461	mg/l
+T102	Medication 1463 1485	The same day clozapine
+T103	Qualitative_concept 1467 1471	same
+T104	Medication 1476 1485	clozapine
+T105	Activity 1490 1499	commenced
+T106	Activity 1508 1518	discovered
+T107	Lab 1524 1526	WD
+T108	Disease_disorder 1536 1545	suffering
+T109	Disease_disorder 1551 1574	an ischiorectal abscess
+T110	Disease_disorder 1554 1574	ischiorectal abscess
+T111	Disease_disorder 1567 1574	abscess
+T112	Lab 1591 1602	antibiotics
+T113	Lab 1604 1618	flucloxacillin
+T114	Sign_symptom 1604 1631	flucloxacillin 1g QID IV/PO
+T115	Quantitative_concept 1633 1637	14/7
+T116	Procedure 1657 1665	incision
+T117	Procedure 1670 1678	drainage
+T118	Disease_disorder 1687 1720	no symptoms of systemic infection
+T119	Sign_symptom 1690 1698	symptoms
+T120	Disease_disorder 1702 1720	systemic infection
+T121	Disease_disorder 1711 1720	infection
+T122	Disease_disorder 1729 1737	afebrile
+T123	Quantitative_concept 1745 1750	times
+T124	Lab 1762 1764	th
+T125	Medication 1770 1814	coinciding with Day 4 of clozapine titration
+T126	Disease_disorder 1786 1791	Day 4
+T127	Disease_disorder 1790 1791	4
+T128	Medication 1795 1804	clozapine
+T129	Diagnostic_procedure 1805 1814	titration
+T130	Procedure 1817 1824	his CRP
+T131	Lab 1821 1824	CRP
+T132	Procedure 1829 1858	180 mg/l and white cell count
+T133	Quantitative_concept 1833 1837	mg/l
+T134	Procedure 1842 1858	white cell count
+T135	Anatomical_structure 1842 1852	white cell
+T136	Procedure 1848 1858	cell count
+T137	Anatomical_structure 1848 1852	cell
+T138	Procedure 1882 1896	Blood cultures
+T139	Procedure 1882 1905	Blood cultures that day
+T140	Anatomical_structure 1882 1887	Blood
+T141	Procedure 1888 1896	cultures
+T142	Qualitative_concept 1911 1919	negative
+T143	Procedure 1925 1959	both CRP and WCC normalised 2 days
+T144	Lab 1930 1933	CRP
+T145	Diagnostic_procedure 1938 1941	WCC
+T146	Activity 1983 1987	Save
+T147	Qualitative_concept 1991 1998	initial
+T148	Disease_disorder 2016 2028	asymptomatic
+T149	Sign_symptom 2029 2040	tachycardia
+T150	Quantitative_concept 2042 2049	100-130
+T151	Lab 2056 2058	WD
+T152	Medication 2068 2113	his clozapine target dose of 400 mg by Day 20
+T153	Lab 2072 2093	clozapine target dose
+T154	Medication 2072 2081	clozapine
+T155	Diagnostic_procedure 2082 2088	target
+T156	Procedure 2101 2103	mg
+T157	Disease_disorder 2111 2113	20
+T158	Sign_symptom 2123 2136	further issue
+T159	Sign_symptom 2131 2136	issue
+T160	Medication 2145 2168	the clozapine titration
+T161	Medication 2149 2158	clozapine
+T162	Diagnostic_procedure 2159 2168	titration
+T163	Lab 2193 2195	to
+T164	Disease_disorder 2208 2223	agranulocytosis
+T165	Qualitative_concept 2244 2256	unremarkable
+T166	Disease_disorder 2269 2274	Day 4
+T167	Procedure 2280 2304	Day 22 a troponin and CK
+T168	Lab 2324 2332	troponin
+T169	Procedure 2342 2348	the CK
+T170	Quantitative_concept 2354 2359	found
+T171	Lab 2360 2362	to
+T172	Qualitative_concept 2366 2374	elevated
+T173	Lab 2376 2386	Troponin I
+T174	Lab 2385 2391	I 0.65
+T175	Disease_disorder 2387 2391	0.65
+T176	Quantitative_concept 2392 2396	ug/l
+T177	Procedure 2410 2412	CK
+T178	Quantitative_concept 2410 2420	CK 53 iu/l
+T179	Quantitative_concept 2416 2420	iu/l
+T180	Lab 2422 2423	N
+T181	Disease_disorder 2426 2432	60-285
+T182	Lab 2447 2454	opinion
+T183	Medication 2482 2495	the clozapine
+T184	Medication 2486 2495	clozapine
+T185	Qualitative_concept 2500 2506	ceased
+T186	Procedure 2508 2543	The following day an echocardiogram
+T187	Diagnostic_procedure 2529 2543	echocardiogram
+T188	Qualitative_concept 2559 2568	worsening
+T189	Lab 2581 2589	function
+T190	Qualitative_concept 2596 2600	July
+T191	Lab 2612 2616	LVEF
+T192	Activity 2624 2631	dropped
+T193	Disease_disorder 2658 2665	falling
+T194	Lab 2666 2675	troponins
+T195	Disease_disorder 2677 2681	0.33
+T196	Quantitative_concept 2696 2700	ug/l
+T197	Procedure 2706 2746	nonelevation of CRP over the next 2 days
+T198	Lab 2722 2725	CRP
+T199	Qualitative_concept 2748 2752	lack
+T200	Sign_symptom 2748 2780	lack of past or current symptoms
+T201	Sign_symptom 2772 2780	symptoms
+T202	Lab 2809 2811	WD
+T203	Qualitative_concept 2821 2827	stable
+T204	Medication 2831 2840	clozapine
+T205	Medication 2831 2853	clozapine for 10 years
+T206	Disease_disorder 2845 2847	10
+T207	Lab 2875 2879	felt
+T208	Qualitative_concept 2890 2898	clinical
+T209	Qualitative_concept 2911 2919	unlikely
+T210	Lab 2920 2922	to
+T211	Activity 2923 2932	represent
+T212	Disease_disorder 2933 2944	myocarditis
+T213	Medication 2946 2955	Clozapine
+T214	Qualitative_concept 2995 3002	slower'
+T215	Medication 3003 3012	clozapine
+T216	Diagnostic_procedure 3013 3022	titration
+T217	Disease_disorder 3023 3031	protocol
+T218	Diagnostic_procedure 3038 3049	cardiac MRI
+T219	Anatomical_structure 3038 3045	cardiac
+T220	Procedure 3046 3049	MRI
+T221	Lab 3100 3102	WD
+T222	Disease_disorder 3113 3117	ECGs
+T223	Disease_disorder 3119 3123	CRPs
+T224	Lab 3128 3137	troponins
+T225	Qualitative_concept 3154 3160	normal
+T226	Disease_disorder 3191 3196	Day 4
+T227	Quantitative_concept 3200 3212	re-titration
+T228	Disease_disorder 3226 3238	asymptomatic
+T229	Medication 3247 3256	clozapine
+T230	Quantitative_concept 3261 3272	re-titrated
+T231	Qualitative_concept 3274 3276	WD
+T232	Procedure 3292 3308	olanzapine 10 mg
+T233	Medication 3292 3302	olanzapine
+T234	Procedure 3306 3308	mg
+T235	Lab 3309 3312	tds
+T236	Quantitative_concept 3324 3327	2.5
+T237	Medication 3324 3342	2.5 mg perindopril
+T238	Quantitative_concept 3328 3330	mg
+T239	Medication 3331 3342	perindopril
+T240	Disease_disorder 3361 3366	Day 7
+T241	Medication 3361 3392	Day 7 of clozapine re-titration
+T242	Diagnostic_procedure 3380 3392	re-titration
+T243	Qualitative_concept 3406 3410	well
+T244	Disease_disorder 3423 3448	no signs of heart failure
+T245	Sign_symptom 3426 3431	signs
+T246	Disease_disorder 3435 3448	heart failure
+T247	Anatomical_structure 3435 3440	heart
+T248	Disease_disorder 3480 3488	afebrile
+T249	Quantitative_concept 3496 3501	times
+T250	Procedure 3512 3553	the planned cardiac MRI the following day
+T251	Diagnostic_procedure 3524 3535	cardiac MRI
+T252	Anatomical_structure 3524 3531	cardiac
+T253	Procedure 3532 3535	MRI
+T254	Procedure 3561 3606	a significant global reduction in LVEF of 38%
+T255	Qualitative_concept 3563 3574	significant
+T256	Qualitative_concept 3575 3581	global
+T257	Procedure 3582 3599	reduction in LVEF
+T258	Procedure 3582 3591	reduction
+T259	Disease_disorder 3608 3639	plus regional myocardial oedema
+T260	Disease_disorder 3613 3639	regional myocardial oedema
+T261	Anatomical_structure 3622 3632	myocardial
+T262	Disease_disorder 3633 3639	oedema
+T263	Qualitative_concept 3644 3651	delayed
+T264	Procedure 3644 3683	delayed gadolinium contrast enhancement
+T265	Lab 3652 3662	gadolinium
+T266	Qualitative_concept 3663 3671	contrast
+T267	Procedure 3672 3683	enhancement
+T268	Disease_disorder 3698 3725	recent or acute myocarditis
+T269	Disease_disorder 3708 3725	acute myocarditis
+T270	Disease_disorder 3714 3725	myocarditis
+T271	Medication 3728 3737	Clozapine
+T272	Qualitative_concept 3759 3765	ceased
+T273	Lab 3767 3769	WD
+T274	Quantitative_concept 3782 3793	re-titrated
+T275	Procedure 3800 3810	25 mg mane
+T276	Quantitative_concept 3803 3817	mg mane/ 75 mg
+T277	Procedure 3803 3805	mg
+T278	Anatomical_structure 3806 3811	mane/
+T279	Anatomical_structure 3806 3810	mane
+T280	Procedure 3812 3837	75 mg nocte by this point
+T281	Quantitative_concept 3832 3837	point
+T282	Disease_disorder 3843 3847	1.25
+T283	Medication 3843 3861	1.25 mg bisoprolol
+T284	Lab 3848 3850	mg
+T285	Medication 3851 3861	bisoprolol
+T286	Lab 3878 3882	WD's
+T287	Sign_symptom 3878 3901	WD's mental state sadly
+T288	Sign_symptom 3883 3895	mental state
+T289	Disease_disorder 3908 3920	deteriorated
+T290	Procedure 3936 3947	further ECT
+T291	Procedure 3944 3947	ECT
+T292	Procedure 3952 3971	combination therapy
+T293	Procedure 3952 3985	combination therapy of olanzapine
+T294	Procedure 3964 3971	therapy
+T295	Medication 3975 3985	olanzapine
+T296	Lab 3987 3998	haloperidol
+T297	Medication 4000 4010	sertraline
+T298	Medication 4015 4022	lithium
+T299	Lab 4023 4025	to
+T300	Qualitative_concept 4026 4032	return
+T301	Sign_symptom 4033 4065	him to his baseline mental state
+T302	Sign_symptom 4044 4065	baseline mental state
+T303	Lab 4044 4052	baseline
+T304	Lab 4053 4059	mental
+T305	Sign_symptom 4076 4096	his cardiac function
+T306	Sign_symptom 4080 4096	cardiac function
+T307	Anatomical_structure 4080 4087	cardiac
+T308	Qualitative_concept 4097 4105	improved
+T309	Medication 4112 4121	clozapine
+T310	Medication 4112 4131	clozapine cessation
+T311	Activity 4122 4131	cessation
+T312	Procedure 4138 4172	a follow-up echocardiogram 8 weeks
+T313	Sign_symptom 4140 4149	follow-up
+T314	Diagnostic_procedure 4150 4164	echocardiogram
+T315	Lab 4196 4200	LVEF
+T316	Disease_disorder 4204 4210	45-50%
+T317	Lab 4212 4222	A 10-month
+T318	Procedure 4212 4246	A 10-month comparative cardiac MRI
+T319	Diagnostic_procedure 4235 4246	cardiac MRI
+T320	Anatomical_structure 4235 4242	cardiac
+T321	Procedure 4243 4246	MRI
+T322	Qualitative_concept 4248 4253	ruled
+T323	Qualitative_concept 4254 4257	out
+T324	Disease_disorder 4258 4311	ischaemic injury as a cause of the elevated troponins
+T325	Disease_disorder 4268 4288	injury as a cause of
+T326	Disease_disorder 4268 4274	injury
+T327	Qualitative_concept 4293 4301	elevated
+T328	Lab 4302 4311	troponins
+T329	Qualitative_concept 4313 4320	minimal
+T330	Lab 4321 4332	wall motion
+T331	Disease_disorder 4333 4346	abnormalities
+T332	Qualitative_concept 4369 4375	global
+T333	Disease_disorder 4369 4402	global resolution of inflammation
+T334	Disease_disorder 4376 4386	resolution
+T335	Disease_disorder 4390 4402	inflammation
+T336	Lab 4407 4409	LV
+T337	Lab 4410 4418	function
+T338	Lab 4420 4424	LVEF
+T339	Quantitative_concept 4441 4445	most
+T340	Disease_disorder 4460 4480	previous myocarditis
+T341	Disease_disorder 4469 4480	myocarditis

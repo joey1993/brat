@@ -1,6 +1,6 @@
 #!/usr/bin/env python2.7
 
-import sys, os, re, bisect, glob
+import sys, os, re, bisect, glob, shutil
 
 '''
 Convert brat annotations to graphs using graphviz.
@@ -16,11 +16,11 @@ e.g. multiple case reports in one document.
 You can leave STARTS empty if there is only one sub-document for every document.
 '''
 
-COLLECTION = 'acrobat'
-STARTS = {'example': [0, 634, 2030]} # 3 sub-documents in example.txt
+# COLLECTION = 'acrobat'
+# STARTS = {'example': [0, 634, 2030]} # 3 sub-documents in example.txt
 
-# COLLECTION = 'acrobat_harry'
-# STARTS = {'example': [0, 634, 2030, 3246, 5224, 6605, 7659]} # 7 sub-documents in example.txt
+COLLECTION = 'acrobat_harry'
+STARTS = {'example': [0, 634, 2025, 3241, 5219, 6600, 7517]} # 7 sub-documents in example.txt
 
 class Node:
     def __init__(self, id, label, type, start_pos):
@@ -162,15 +162,7 @@ class Graph:
             for id in node_id_list]
 
     def get_doc_idx(self, node, doc):
-        char_index = node.get_start()
-        doc_start_indices = STARTS[doc]
-        # e.g. 
-        # If char_index == 7, doc_start_indices == [0, 1, 5, 10],
-        # should return 2.
-        # If char_index == 5, doc_start_indices == [0, 1, 5, 10],
-        # should return 2.
-        i = bisect.bisect_right(doc_start_indices, char_index)
-        return i - 1
+        return get_doc_index(node.get_start(), doc)
 
     def get_arrow_str(self, node, next_node, rel_type):
         li = ['label=%s' % rel_type]
@@ -191,17 +183,19 @@ def main():
     for dir in glob.glob('data/%s/*/' % COLLECTION):
         for file in glob.glob('%s/*.ann' % dir):
             files.append(file)
+    files = [f for f in files if not 'split' in f]
     print '%s annotation files' % len(files)
     files = [file for file in files if os.stat(file).st_size != 0]
     print '%s non-empty annotation files' % len(files)
     for file in files:
-        doc = file.split('/')[-1].split('.')[0]
         graph = brat_to_graph(file)
         graph.to_dot_language_and_image(file.split('.')[0])
 
 def brat_to_graph(file):
     g = Graph()
     with open(file) as f:
+        doc = file.split('/')[-1].split('.')[0]
+        split_file(doc, file)
         for line in f:
             line = line.rstrip()
             # print line
@@ -229,9 +223,28 @@ def brat_to_graph(file):
                 raise RuntimeError('Unrecognized line: %s' % line)
     return g
 
+def split_file(doc, file):
+    if doc in STARTS:
+        with open(file[:-3] + 'txt', 'r') as txt_f:
+            txt = txt_f.read()
+        split_dir = 'data/%s/split/' % COLLECTION
+        if os.path.exists(split_dir):
+            shutil.rmtree(split_dir)
+        os.makedirs(split_dir)
+        for i, start_c in enumerate(STARTS[doc]):
+            open('%s/%s_%s.ann' % (split_dir, doc, i+1), 'a').close()
+            with open('%s/%s_%s.txt' % (split_dir, doc, i+1), 'w') \
+            as new_txt_f:
+                if i < len(STARTS[doc]) - 1:
+                    new_txt_f.write(txt[start_c:STARTS[doc][i+1]])
+                else:
+                    new_txt_f.write(txt[start_c:])
+
 def handle_entity_event(ls, g):
     assert(len(ls) >= 5)
-    g.add_node(Node(ls[0], ' '.join(ls[4:]), ls[1], int(ls[2])))
+    start_pos = int(ls[2])
+    text = ' '.join(ls[4:])
+    g.add_node(Node(ls[0], text, ls[1], start_pos))
 
 def handle_event(ls, g):
     assert(len(ls) == 2)
@@ -277,6 +290,16 @@ def get_node_from_ls(ls, ls_index, g, split=True):
     if split:
         w = w.split(':')[1]
     return g.get_node(w)
+
+def get_doc_index(char_index, doc):
+    doc_start_indices = STARTS[doc]
+    # e.g. 
+    # If char_index == 7, doc_start_indices == [0, 1, 5, 10],
+    # should return 2.
+    # If char_index == 5, doc_start_indices == [0, 1, 5, 10],
+    # should return 2.
+    i = bisect.bisect_right(doc_start_indices, char_index)
+    return i - 1
 
 '''
 Code below is from 
