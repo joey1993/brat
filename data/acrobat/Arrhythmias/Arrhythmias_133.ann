@@ -1,0 +1,13 @@
+T1	Uncertainty 660 670	myocardium
+T2	Anatomical_structure 676 687	hypokinesia
+T3	Therapeutic_procedure 695 699	same
+E1	Therapeutic_procedure:T3 
+T4	Diagnostic_procedure 700 704	area
+E2	Diagnostic_procedure:T4 
+R1	MODIFY Arg1:T1 Arg2:E2	
+T5	Sign_symptom 691 694	the
+E3	Sign_symptom:T5 
+T6	Disease_disorder 947 957	congestive
+E4	Disease_disorder:T6 
+T7	Other_event 391 400	financial
+E5	Other_event:T7 
